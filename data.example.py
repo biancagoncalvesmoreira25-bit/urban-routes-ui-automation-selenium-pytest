@@ -1,0 +1,11 @@
+URBAN_ROUTES_URL = "http://localhost:3000"
+
+ADDRESS_FROM = "Example street 1"
+ADDRESS_TO = "Example street 2"
+
+PHONE_NUMBER = "+351900000000"
+
+CARD_NUMBER = "4111111111111111"
+CARD_CODE = "123"
+
+MESSAGE_FOR_DRIVER = "Test message"
